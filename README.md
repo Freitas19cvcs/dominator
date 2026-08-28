@@ -1,0 +1,2 @@
+# dominator
+Fantasy football calculator
